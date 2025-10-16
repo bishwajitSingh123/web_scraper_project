@@ -1,0 +1,11 @@
+timestamp,url,status_code,latency_s,retries,filename,error 
+2025-10-16T08:42:10.470302,https://example.com,200,1.562,0,raw_pages\327c3fda87ce286848a574982ddd0b7c7487f816.html,
+2025-10-16T08:42:13.056136,https://techcrunch.com/startups/,200,1.342,0,raw_pages\9869a159b18a16167c22af97d1216f724e50c109.html,
+2025-10-16T08:42:14.148857,https://yourstory.com/companies,,0.000,0,,blocked_by_robots
+2025-10-16T08:42:32.861790,https://angel.co/companies,403,1.544,3,,status_403
+2025-10-16T08:42:33.006667,https://crunchbase.com/organization/openai,,0.000,0,,blocked_by_robots
+2025-10-16T08:42:33.429728,https://datafloq.com/companies,,0.000,0,,blocked_by_robots
+2025-10-16T08:42:36.744460,https://www.builtin.com/companies,200,1.718,0,raw_pages\9d9c127ea20ad42072f3464244917ab9186bb752.html,
+2025-10-16T08:42:36.937295,https://www.producthunt.com/,,0.000,0,,blocked_by_robots
+2025-10-16T08:42:37.380115,https://www.startus-insights.com/innovators-guide/,,0.000,0,,blocked_by_robots
+2025-10-16T08:42:42.727398,https://www.eu-startups.com/directory/,200,1.648,0,raw_pages\dee08045b05c04e6798ee7b73f31160965b05f6d.html,
